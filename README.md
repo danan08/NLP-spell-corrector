@@ -12,5 +12,5 @@ This repository contains an implementation of a spell checker that handles both 
 * Seamless API Integration: The code seamlessly integrates with the provided API, allowing easy initialization, addition of language models and error tables, spell checking, evaluation, and text generation. 
 
 # Example 
-<img width="500" alt="image" src="https://github.com/danan08/NLP-spell-corrector/assets/78946759/9f4f473c-c9c8-464d-9f47-c5b8d0529bec">
+<img width="700" alt="image" src="https://github.com/danan08/NLP-spell-corrector/assets/78946759/9f4f473c-c9c8-464d-9f47-c5b8d0529bec">
 
